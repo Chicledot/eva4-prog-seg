@@ -25,19 +25,19 @@ Respuesta: son headers de envio. estos provienen de el lado del servidor
 
 6. ¿Qué es la "pestaña Network" en las herramientas para desarrolladores?
 
-Respuesta: 
+Respuesta: Permite ver los packetes enviados por las paginas web a sus servidores, es solo una herramienta de monitoreo.
 
 7. ¿Cuál es el principal objetivo de los Encabezados HTTP en términos de seguridad?
 
-Respuesta:
+Respuesta: cuidar la informacion enviada de la pagina web o el servidor de manera segura.
 
 8. ¿Qué tipos de Encabezados HTTP existen para proteger la información?
 
-Respuesta:
+Respuesta: HTTP y HTTPS
 
 9. ¿Qué es la encriptación y cómo se relaciona con los Encabezados HTTP en la seguridad web? 
 
-Respuesta:
+Respuesta: la encriptacion es basicamente como un randomizador que genera un archivo con numeros y letras al azar los cuales son dificiles de desencriptar, el fin de estos es protejer los datos y que nadie pueda ver que hay dentro de estos.
 
 10. ¿Cuál es el nombre de la página web oficial de Mozilla con documentación sobre Encabezados HTTP? 
 
@@ -45,7 +45,7 @@ Respuesta: Mdn web docs (Developer.mozilla.org)
 
 11. ¿Cuáles son algunos ejemplos de Encabezados HTTP utilizados para la autenticación? 
 
-Respuesta:
+Respuesta: WWW-Autenticate y Proxy-Authorization contienen credenciales para autenticar a un usuario con un servidor.
 
 12. ¿Qué son las cookies y qué función cumplen?
 
@@ -53,52 +53,52 @@ Respuesta: las cookies son identificadores, los cuales se guardan en tu navegado
 
 13. ¿Cuales son los 2 tipos de Encabezados HTTP se utilizan para la protección de contenido web?
 
-Respuesta:
+Respuesta: Responce headers y Request headerst.
 
 14. ¿Qué función cumple el Content Security Policy (CSP)?
 
-Respuesta:
+Respuesta: evita ataques "Cross site Scripting" (XSS) los cuales pueden suceder cuando el navegador es enagañado porque cree que esta recibiendo scripts de una fuente de confianza.
 
 15. ¿Qué es el "XSS" y cómo se relaciona con los Encabezados HTTP? 
 
-Respuesta:
+Respuesta: XSS o "Cross Site Scripting" es cuando se engaña a el navegador para que ejecute scripts de "fuentes de confianza" las tantas capaz de seguridad de HTTP permiten mitigar estos ataques.
 
 16. (*) ¿Qué encabezado ayuda al rendimiento de una página web?
 
-Respuesta: HTTP.
+Respuesta: HTTP tambien ayuda a el rendimiento y velocidad de una pagina.
 
 17. ¿Cómo se identifican los Encabezados HTTP antes del 2012?
 
-Respuesta:
+Respuesta: se ocupaba una letra en especifico, la "X"
 
 18. (*) ¿Qué es SEO en el contexto de la web?
 
-Respuesta:
+Respuesta: Search Engine Optimization, permite mejorar el rendimiento de los motores de busqueda en de los navegadores o en paginas web.
 
 19. ¿Cuál es el atajo del teclado (shortcut) para acceder al inspector de elementos en el navegador?
 
-Respuesta:
+Respuesta: cntrl+shirt+l (en mi caso este shortcut no me sirve porque mis drivers de AMD tienen ese shortcut para comenzar un registro de rendimiento)
 
 20. ¿Qué significa "HTTP" en las siglas de Encabezados HTTP?
 
-Respuesta:
+Respuesta: HyperText Transfer Protocol
 
 21. (*) ¿Cuál es la diferencia entre los encabezados HTTP y los encabezados HTTPS?
-
-Respuesta:
+    
+Respuesta: HTTPS es mas seguro que HTTP, ya que es el protocolo más nuevo al igual que la "S" significa Security
 
 22. (*) ¿Cuáles son los tipos de métodos HTTP qué mas se utilizan? (mencione al menos 5)
 
-Respuesta:
+Respuesta: CONNECT, DELETE, GET, HEAD, OPTIONS, POST, PUT.
 
 23. (*) ¿Qué permiten hacer las herramientas de desarrollo del navegador con respecto a los encabezados HTTP?
 
-Respuesta:
+Respuesta: Monitorear las respuestas de los encabezados HTTP o la existencia de estos, en si es para detectar problemas.
 
 24. (*) ¿Qué es un "Proxy" y cómo se relaciona con los Encabezados HTTP?
 
-Respuesta:
+Respuesta: basicamente un proxy sirve como un intermediario el cual actua como una puerta de enlace entre los usuarios e internet.
 
 25. (*) ¿Cómo se pueden usar los Encabezados HTTP para optimizar el SEO de un sitio web?
 
-Respuesta:
+Respuesta: Utilizando URL descriptivas, y optando seguir los ultimos protocolos de seguridad permiten que un sitio web pueda ser más visto o favorecido a la hora de buscarlo en internet.
